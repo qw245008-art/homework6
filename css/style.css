@@ -1,37 +1,83 @@
 * {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 .centr {
-    max-width: 600px;
-    margin: auto;
-    padding-left: 20px;
-    padding-right: 20px;
+  max-width: 600px;
+  margin: auto;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 table {
-    /* width: 100%; */
-    border-right: 1px solid black;
-    border-collapse: collapse;
-    width: 700px;
-    height: 700px;
+  /* width: 100%; */
+  border-right: 1px solid black;
+  border-collapse: collapse;
+  width: 700px;
+  height: 700px;
 }
 
-td{
-    border: 5px solid black;
-    text-align: center;
+td {
+  border: 5px solid black;
+  text-align: center;
+}
+.heigtcell_20 {
+  height: 20px;
+}
+.heigtcell_60 {
+  height: 60px;
+}
+.heigtcell_80 {
+  height: 80px;
+}
+.heigtcell_100 {
+  height: 100px;
+}
+.heigtcell_180 {
+  height: 180px;
+}
+
+.widthcell_40 {
+  width: 40px;
+}
+.widthcell_80 {
+  width: 80px;
+}
+.widthcell_100 {
+  width: 100px;
+}
+.widthcell_110 {
+  width: 110px;
+}
+.widthcell_120 {
+  width: 120px;
+}
+.widthcell_160 {
+  width: 160px;
+}
+.widthcell_200 {
+  width: 200px;
+}
+.widthcell_220 {
+  width: 220px;
+}
+.widthcell_280 {
+  width: 280px;
+}
+.widthcell_360 {
+  width: 360px;
 }
 .cell_color1 {
-    background-color: red;
+  background-color: red;
 }
 .cell_color2 {
-    background-color: yellow;
+  background-color: yellow;
 }
 .cell_color3 {
-    background-color: black;
+  background-color: black;
 }
 .cell_color4 {
-    background-color: blue;
+  background-color: blue;
 }
 .text_color {
   color: rgba(230, 235, 240, 0);
